@@ -29,7 +29,7 @@ img{
 
 div{
     height: 150px;
-    padding:25px;
+    padding: 25px;
 }
 
 div#red{
@@ -38,7 +38,7 @@ div#red{
 }
 
 div#blue{
-    background-color:#0000ff ;
+    background-color: #0000ff ;
     text-align: left;
 }
 
@@ -48,12 +48,12 @@ div#yellow{
 }
 
 div#yellow h2{
-    color:#000000;
+    color: #000000;
     text-shadow: 5px 5px 2px #c7e2c7;
 }
 
 div#yellow p{
-    color:#000000;
+    color: #000000;
 }
 
 div#green{
